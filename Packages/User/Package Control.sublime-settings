@@ -1,0 +1,23 @@
+{
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"Browser Refresh",
+		"ColorPicker",
+		"Emmet",
+		"Hayaku - tools for writing CSS faster",
+		"JsFormat",
+		"Monokai Extended",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-contrib-clang",
+		"SublimeLinter-javac",
+		"SublimeLinter-jshint",
+		"SublimeREPL",
+		"Surround",
+		"Theme - Flatland",
+		"Theme - Spacegray",
+		"Zen Tabs"
+	]
+}

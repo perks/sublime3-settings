@@ -1,0 +1,32 @@
+[
+
+    { "keys": ["shift+space"], "command": "move", "args": {"by": "characters",
+        "forward": true}
+    },
+    {
+        "keys": [
+            "super+`"
+        ],
+        "args": {
+            "action": "expand_abbreviation"
+        },
+        "command": "run_emmet_action",
+        "context": [
+            {
+                "key": "emmet_action_enabled.expand_abbreviation"
+            }
+        ]
+    },
+
+      {
+      "keys": ["command+shift+r"], "command": "browser_refresh", "args": {
+          "auto_save": true,
+          "delay": 0.5,
+          "activate_browser": true,
+          "browser_name" : "all"
+      }
+  }
+
+]
+
+
