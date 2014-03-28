@@ -13,7 +13,7 @@
 		{
 			"clang":
 			{
-				"@disable": false,
+				"@disable": true,
 				"args":
 				[
 				],
@@ -27,7 +27,7 @@
 			},
 			"javac":
 			{
-				"@disable": false,
+				"@disable": true,
 				"args":
 				[
 				],
@@ -36,9 +36,19 @@
 				],
 				"lint": ""
 			},
+			"jscs":
+			{
+				"@disable": false,
+				"args":
+				[
+				],
+				"excludes":
+				[
+				]
+			},
 			"jshint":
 			{
-				"@disable": true,
+				"@disable": false,
 				"args":
 				[
 				],

@@ -1,43 +1,33 @@
-[
-   {
-      "keys":[
-         "option+`"
-      ],
-      "command":"run_macro_file",
-      "args":{
-         "file":"Packages/User/superBracketizeFunction.sublime-macro"
-      }
-   },
-   {
-      "keys":[
-         "super+;"
-      ],
-      "command":"run_macro_file",
-      "args":{
-         "file":"Packages/User/superEndLineWiSemiColin.sublime-macro"
-      }
-   },
-   {
-      "keys":[
-         "option+enter"
-      ],
-      "command":"run_macro_file",
-      "args":{
-         "file":"Packages/User/superExitFunctionArg.sublime-macro"
-      }
-   },
-   {
-      "keys":[
-         "command+shift+r"
-      ],
-      "command":"browser_refresh",
-      "args":{
-         "auto_save":true,
-         "delay":0.5,
-         "activate_browser":true,
-         "browser_name":"all"
-      }
-   },
-   { "keys": ["shift+space"], "command": "move", "args": {"by": "subword_ends", "forward": true} }
-
+[{
+        "keys": [
+            "option+`"
+        ],
+        "command": "run_macro_file",
+        "args": {
+            "file": "Packages/User/superBracketizeFunction.sublime-macro"
+        }
+    }, {
+        "keys": [
+            "super+;"
+        ],
+        "command": "run_macro_file",
+        "args": {
+            "file": "Packages/User/superEndLineWiSemiColin.sublime-macro"
+        }
+    }, {
+        "keys": [
+            "super+enter"
+        ],
+        "command": "run_macro_file",
+        "args": {
+            "file": "Packages/User/superExitFunctionArg.sublime-macro"
+        }
+    }, {
+        "keys": ["shift+space"],
+        "command": "move",
+        "args": {
+            "by": "wordends",
+            "forward": true
+        }
+    }
 ]

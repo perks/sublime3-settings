@@ -1,7 +1,7 @@
 {
+	"atomic_save": false,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/base16-ocean.dark (SL).tmTheme",
-	"flatland_sidebar_tree_xsmall": true,
+	"color_scheme": "Packages/User/Solarized (dark) (SL).tmTheme",
 	"flatland_square_tabs": true,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
@@ -12,10 +12,12 @@
 	"index_files": false,
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
+	"reveal-on-activate": true,
 	"scroll_past_end": true,
+	"soda_classic_tabs": true,
 	"tab_completion": false,
 	"tab_size": 4,
-	"theme": "Spacegray.sublime-theme",
+	"theme": "Sodarized Dark 3.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true
